@@ -1,2 +1,2 @@
 # AnotherJavaScript
-It's a JavaScript code for Another Page
+It's a JavaScript code for Another Page.
